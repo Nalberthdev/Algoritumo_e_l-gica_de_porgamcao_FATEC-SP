@@ -1,1 +1,1 @@
-# Algoritumo_e_l-gica_de_porgamcao_FATEC-SP
+# Algoritimo_e_logica_de_progamacao_FATEC-SP
